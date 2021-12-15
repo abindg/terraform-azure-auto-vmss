@@ -1,0 +1,5 @@
+# Terraform files to exclude
+.tfstate
+.terraform
+.backup
+.hcl
